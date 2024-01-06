@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
   - scalar
   - literal
-  - expression
+  - expression 👂 heard
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function 🙋 explained
+  - procedure 🎓 known
+  - method 🙋 explained
+  - class 🙋 explained
   - prototype
-  - event
+  - event 👂 heard
   - type
   - primitive types
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block 👂 heard
+  - conditions 👂 heard
+  - loops 🎓 known
+  - assignment 👂 heard
   - regular expression
-  - interface
+  - interface 🎓 known
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature 👂 heard
+  - argument 🙋 explained
+  - parameter 🎓 known
   - pure function
   - lambda expression
   - side effects
@@ -53,21 +53,21 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
+  - array 🙋 explained
+  - structure 👂 heard
+  - record 👂 heard
+  - enum 👂 heard
   - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection 🎓 known
+  - set 👂 heard
+  - hash table 👂 heard
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue 👂 heard
   - stack
   - deque
   - tree
@@ -78,29 +78,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 🙋 explained
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - refactoring 🙋 explained
+  - code review 🙋 explained
+  - antipatterns 🙋 explained
+  - paradigm 🎓 known
+  - algorithm 🎓 known
+  - magic numbers 🙋 explained
+  - hardcode 👂 heard
   - complexity
   - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - spaghetti 🎓 known
+  - silver bullet 🎓 known
+  - not invented here 🎓 known
+  - dead code 🎓 known
+  - unreachable code 👂 heard
+  - duplicate code 👂 heard
+  - exception 👂 heard
   - return early
   - unittest
-  - git
-  - github
+  - git 🙋 explained
+  - github 🙋 explained
